@@ -1,0 +1,4 @@
+java -Dsquirrel.settings.home=C:\Users\IN025BER\.squirrel-sql -jar squirrel-configure-xml.jar AANMAKEN_DRIVER driverConfigLocation=Driver.json
+java -Dsquirrel.settings.home=C:\Users\IN025BER\.squirrel-sql -jar squirrel-configure-xml.jar AANMAKEN_ALIAS driver=E-Machine aliasConfigLocation=ONTAlias.json
+java -Dsquirrel.settings.home=C:\Users\IN025BER\.squirrel-sql -jar squirrel-configure-xml.jar TOEVOEGEN_SCHEMA aliasNaam=ONT naam=UNDTAONT
+java -Dsquirrel.settings.home=C:\Users\IN025BER\.squirrel-sql -jar squirrel-configure-xml.jar TOEVOEGEN_SCHEMA aliasNaam=ONT naam=UNDTAONT tabelLaden=LOAD_BUT_DONT_CACHE proceduresLaden=DONT_LOAD viewsLaden=LOAD_AND_CACHE

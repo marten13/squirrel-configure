@@ -1,0 +1,5 @@
+{
+  "jarPath": "D:\\db2Lib\\jt400.jar",
+  "jarPath": "E-machine",
+  "defaultJdbcUrl": "jdbc:as400://172.30.253.31"
+}

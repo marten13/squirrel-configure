@@ -1,0 +1,14 @@
+{
+  "aliasName": "ONT",
+  "userName": "IN999ONT",
+  "password": "PASSWORD",
+  "schemasToLoad" : [
+    {
+      "schemaName": "IN025BER",
+      "tableLoadType": "LOAD_BUT_DONT_CACHE",
+      "viewLoadType": "DONT_LOAD",
+      "tableLoadType": "DONT_LOAD"
+    }
+  ]
+
+}

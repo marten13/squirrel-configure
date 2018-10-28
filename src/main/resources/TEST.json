@@ -1,0 +1,26 @@
+{
+  "aliasName": "FAT",
+  "userName": "IN025BER",
+  "password": "DB2W40",
+  "jdbcUrl": "jdbc:as400://172.30.253.31;date format=iso",
+  "schemasToLoad": [
+    {"schemaName": "JBDTAFAT"},
+    {"schemaName": "JVDTAFAT"},
+    {"schemaName": "KADTAFAT"},
+    {"schemaName": "NJDTAFAT"},
+    {"schemaName": "NODTAFAT"},
+    {"schemaName": "PPDTAFAT"},
+    {"schemaName": "UKDTAFA2"},
+    {"schemaName": "UODTAFAT"},
+    {"schemaName": "UQDTAOFT"},
+    {"schemaName": "URDTAFAT"},
+    {"schemaName": "UTDTAOFT"},
+    {"schemaName": "UUDTAOFT"},
+    {"schemaName": "UVDTAOFT"},
+    {"schemaName": "UWDTAOFT"},
+    {"schemaName": "UXDTAOFT"},
+    {"schemaName": "UYDTAOFT"},
+    {"schemaName": "VCDTAOFT"},
+    {"schemaName": "VFDTAFCT"}
+  ]
+}
